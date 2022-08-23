@@ -14,6 +14,7 @@ module.exports = {
         "dark-grayish-blue": "#6c7289",
         "very-dark-blue": "#1c232b",
         "dark-cyan": "#3c8067",
+        "darker-cyan": "#1a4031",
       },
       fontFamily: {
         fraunces: ["Fraunces", "serif"],

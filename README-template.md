@@ -50,6 +50,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Create the HTML5 skeleton based on the mobile-design.jpg file in the assets/design folder.
 - Install tailwindcss
 - Mobile-first design
+- Desktop design
 
 ### Built with
 
