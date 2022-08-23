@@ -45,6 +45,7 @@ Users should be able to:
 - Desktop design
 - Publish solution on github.io
 - Push solution on github.com
+- Publish solution on frontendmentor.io
 
 ### Built with
 
