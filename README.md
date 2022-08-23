@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution: [frontendmentor.io](https://your-solution-url.com)
+- Solution: [frontendmentor.io](https://www.frontendmentor.io/solutions/product-preview-card-component-with-tailwindcss-zP517Hmewi)
 - Live Site: [github.io](https://siavhnz.github.io/frontendmentor/4.product-preview-card/index.html)
 
 ## My process
