@@ -44,7 +44,7 @@ Users should be able to:
 - Mobile-first design
 - Desktop design
 - Publish solution on github.io
-- Push solution on github.com
+- Push solution to github.com
 - Publish solution on frontendmentor.io
 
 ### Built with
